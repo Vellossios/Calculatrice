@@ -61,7 +61,7 @@ td h2
     transform: translateX(-50%);
 }
 
-input, .resultadd
+input, .resultadd, .resultsou, .resultmul, .resultdiv
 {
     margin-top: 10px;
 }
