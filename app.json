@@ -1,0 +1,15 @@
+{
+    "name": "Calculatrice",
+    "description": "Calculatrice codée en JS",
+    "keywords": [
+      "productivity",
+      "JS"
+    ],
+    "repository": "https://github.com/Vellossios/Calculatrice",
+    "success_url": "/",
+    "buildpacks": [
+      {
+        "url": "heroku/php"
+      }
+    ]
+  }
